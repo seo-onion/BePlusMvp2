@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-beplusmvp2-dev-ca201-authRole",
+      "UnauthRoleArn": "arn:aws:iam::864899841714:role/amplify-beplusmvp2-dev-ca201-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::864899841714:role/amplify-beplusmvp2-dev-ca201-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-beplusmvp2-dev-ca201-deployment",
+      "UnauthRoleName": "amplify-beplusmvp2-dev-ca201-unauthRole",
+      "StackName": "amplify-beplusmvp2-dev-ca201",
+      "StackId": "arn:aws:cloudformation:us-east-1:864899841714:stack/amplify-beplusmvp2-dev-ca201/fe224310-d128-11ef-a081-0e01479a4f1f",
+      "AmplifyAppId": "dli7sb950fzsl"
+    }
+  }
+}
